@@ -1,0 +1,54 @@
+{
+  "_from": "node-lf-passbook@^0.1.0",
+  "_id": "node-lf-passbook@0.1.0",
+  "_inBundle": false,
+  "_integrity": "sha512-3VIFXzKbhx2fbpR7or4FimdpMdKiXYk8/DGekKUOrM+hT3xDX5Rr6ZqAURXTw8L/02jAZeROom6pliiE1tIggw==",
+  "_location": "/node-lf-passbook",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "node-lf-passbook@^0.1.0",
+    "name": "node-lf-passbook",
+    "escapedName": "node-lf-passbook",
+    "rawSpec": "^0.1.0",
+    "saveSpec": null,
+    "fetchSpec": "^0.1.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/node-lf-passbook/-/node-lf-passbook-0.1.0.tgz",
+  "_shasum": "e09637d973fd18bf53141693c432266a2add5569",
+  "_spec": "node-lf-passbook@^0.1.0",
+  "_where": "/Users/carlos/Documents/Development/mobile-nestjs-aficion360-backend",
+  "author": {
+    "name": "lufeng",
+    "email": "lufeng@tuniu.com"
+  },
+  "bin": {
+    "node-passbook": "./bin/node-passbook"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "async": "^0.9.0",
+    "babel": "^5.8.38",
+    "cli": "0.6.5"
+  },
+  "deprecated": false,
+  "description": "iOS Passbook for the Node hacker",
+  "devDependencies": {},
+  "keywords": [
+    "iOS",
+    "apple",
+    "passbook",
+    "library"
+  ],
+  "license": "MIT",
+  "main": "./lib/index.js",
+  "name": "node-lf-passbook",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.1.0"
+}
