@@ -169,3 +169,10 @@ cd test/
 gulp passbook
 
 so you can show the .pkpass file on the test/pass-book/
+
+## About
+
+Based [node-lf-passbook 0.1.0](https://www.npmjs.com/package/node-lf-passbook) library by lufeng - lufeng@tuniu.com
+
+Carlos Asín updates:
+- Add loadImageFromUrl method
